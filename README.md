@@ -17,3 +17,5 @@ BACKUP YOUR SD CARD BEFORE MAKING ANY CHANGES!
 4. Copy the model image file (if included) to your SD card /IMAGES folder
 5. Power up the radio and look for the new model and select it.
 
+
+I've added some other misc files to this repository such as EdgeTX sound files as well as RealFlight Evolution model files. The RealFlight files end in .RFX
